@@ -1,0 +1,6 @@
+* =prompts-dev=
+
+This repository may be loaded as a prompts repository in pen.el because it has
+a =prompts= subdirectory.
+
+[[./prompts]]
